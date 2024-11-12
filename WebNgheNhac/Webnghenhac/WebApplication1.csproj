@@ -2324,7 +2324,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\main.css" />
     <Content Include="image\baihatdathich.png" />
-    <Content Include="image\logo.jpg" />
+    <Content Include="image\logo1.jpg" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="fonts\fontawesome-free-6.2.0-web\less\brands.less" />
